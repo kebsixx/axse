@@ -51,7 +51,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Ubuntu:wght@300&display=swap");
 
 body {
-  min-height: 2000px;
+  min-height: 4000px;
   background-color: var(--alice-blue);
 }
 
@@ -75,8 +75,12 @@ body {
 }
 
 #about {
-  padding: 10rem 0 10rem 0;
+  padding: 10rem 0;
   background-color: var(--cadet-gray);
+}
+
+#memori {
+  padding: 4rem 0;
 }
 
 .teks-putih {
@@ -85,6 +89,10 @@ body {
 
 .warna-gelap {
   color: var(--oxford-blue);
+}
+
+.teks-ungu {
+  color: var(--cadet-gray);
 }
 
 .ls-p {
